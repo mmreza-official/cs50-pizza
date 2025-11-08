@@ -42,7 +42,7 @@ Cheese,13.50,18.95
 Pepperoni,14.50,19.95
 Hawaiian,15.25,21.50
 
-🟦 Output (in terminal):
+**🟦 Output (in terminal):**
 
 +------------+--------+--------+
 | Pizza      | Small  | Large  |
@@ -56,7 +56,7 @@ Hawaiian,15.25,21.50
 
 ---
 
-##🧰 Technologies Used
+##__🧰 Technologies Used__
 
 Python 3
 
