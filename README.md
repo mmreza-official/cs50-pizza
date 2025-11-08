@@ -56,7 +56,7 @@ Hawaiian,15.25,21.50
 
 ---
 
-##__🧰 Technologies Used__
+##**🧰 Technologies Used**
 
 Python 3
 
